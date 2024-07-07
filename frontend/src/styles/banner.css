@@ -1,0 +1,42 @@
+.imggg{
+
+    height: 500px !important;
+    width: 900px !important;
+   
+
+   
+}
+
+.div1{
+
+ 
+    width: 80% !important;
+   
+}
+.div2{
+
+ margin-top: 20px !important;
+  width: 100% !important;
+  margin-right: 50px !important;
+  transition: all 0.3s ease-in-out;
+
+}
+
+.div2:hover{
+
+    transform: scale(1.1);
+}
+
+@media (max-width:768px) {
+    
+    .div1{
+       width: 100% !important;
+       
+    }
+
+    .imggg{
+            
+        height: 400px !important;
+        width: 800px !important;  
+    }
+  }

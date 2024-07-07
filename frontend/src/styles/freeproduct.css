@@ -1,0 +1,40 @@
+.productCard{
+
+    
+    margin-top: 30px;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.img{
+
+    height: 260px !important;
+    width: 100% !important;
+    background-size: cover !important;
+}
+
+.pk{
+
+    transition: all 0.3s ease-in-out;
+}
+.pk:hover{
+
+    transform: scale(1.1);
+}
+
+@media (max-width:768px) {
+    
+    .pk{
+        width:100% !important ;
+        margin-bottom: 30px; 
+    }
+    .img{
+
+        height: 300px !important;
+        width: 100% !important;
+        background-size: cover !important;
+    }
+  }

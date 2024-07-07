@@ -1,0 +1,36 @@
+.heding{
+
+    margin-top: 100px !important;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: 500;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.allproducts{
+
+    display: flex !important;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.back{
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+
+@media (max-width:768px) {
+    
+    .pk{
+
+        width: 100% !important;
+        margin: 20px !important;
+    }
+  }

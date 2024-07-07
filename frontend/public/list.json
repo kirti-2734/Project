@@ -1,0 +1,116 @@
+[
+    {
+        "image":"https://www.imagineonline.store/cdn/shop/files/iPhone_15_Pro_Max_Blue_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1694758834",
+        "name":"iPhone 15pro",
+        "price":"0",
+        "type":"Smartphone",
+        "discription":"New Apple iPhone 15 Pro Max. Aerospace-grade titanium design",
+        "category":"free"
+    },
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxklu_4OFQxBGVGOV0nyugziiQPPmXUMmEw&s",
+        "name":"Air Cooler",
+        "price":"0",
+        "type":"Electronic",
+        "discription":"Beat the heat with Symphony Winter 80 XL Plus 190W 80L Air Cooler. ",
+        "category":"free"
+    },
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5ZMld0v1FF-AbOO3-0xllkYS0mdZiqMOOQ&s",
+        "name":"Smart Watch",
+        "price":"0",
+        "type":"watch",
+        "discription":"Bioelectrical Impedance Analysis Sensor, Optical Heart Rate Sensor, ",
+        "category":"free"
+    },
+
+    {
+        "image":"https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook_mobile.jpg",
+        "name":"ASUS Laptop L510",
+        "price":"40000",
+        "type":"Digital",
+        "discription":"Efficient Intel Celeron N4020 Processor (4M Cache, up to 2.8 GHz)",
+        "category":"Laptop"
+    },
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdWfFQY75Xh9he3nzB_4CRlLCRVV7QkY1zQ&s",
+        "name":"Ear Bluetooth",
+        "price":"800",
+        "type":"electronic",
+        "discription":"These headphones are super comfy and have amazing sound quality",
+        "category":"Song"
+    },
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy2t8PelJSIOc4KQKWGXJCNY1xXSuNtJyYg&s",
+        "name":"BTW100 Xtreme",
+        "price":"8000",
+        "type":"electronic",
+        "discription":"These headphones are super comfy and have amazing sound quality",
+        "category":"Song"
+    },
+
+
+    {
+        "image":"Trolly bag",
+        "name":"Bag",
+        "price":"400",
+        "type":"bag",
+        "discription":"Canvas Tote Bag Unique Style Rope Handle 14″ x 14″ x 6″",
+        "category":"bag"
+    },
+
+    {
+        "image":"https://whirlpoolindia.vtexassets.com/arquivos/ids/164386/Xpert-care-Silver-lid-open-O3-6.5kg_1500x1500.jpg?v=638000290210600000",
+        "name":"Washing Machine",
+        "price":"30000",
+        "type":"electronic",
+        "discription":"Xpert Care 6.5kg 5 Star Front Load Washing Machine",
+        "category":"machine"
+    },
+
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMzai12c7SjMySLGhXbJB1Y0wFDaw7RakBg&s",
+        "name":"Bag",
+        "price":"400",
+        "type":"bag",
+        "discription":"Canvas Tote Bag Unique Style Rope Handle 14″ x 14″ x 6″",
+        "category":"bag"
+    },
+
+
+    {
+        "image":"https://contents.mediadecathlon.com/p2393856/9cfe8a5fa9db57a335c69ba013342454/p2393856.jpg?format=auto&quality=70&f=650x0",
+        "name":"Shoose",
+        "price":"900",
+        "type":"boys shoose",
+        "discription":"JOGFLOW 100 Superior Grip Cushioned Men Running Shoes max 10km/wk- Navy Orange",
+        "category":"shoose"
+    },
+
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8szRe1IUNBZizhTLqh3TtOx03qdFYB6XASA&s",
+        "name":"Smart Watch",
+        "price":"0",
+        "type":"watch",
+        "discription":"Bioelectrical Impedance Analysis Sensor, Optical Heart Rate Sensor, ",
+        "category":"watch"
+    },
+
+
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96YM4EqMudRc9t7OpZCIsYZGfct_M1aZTYg&s",
+        "name":"iPhone 12pro",
+        "price":"50000",
+        "type":"Smartphone",
+        "discription":"New Apple iPhone 15 Pro Max. Aerospace-grade titanium design",
+        "category":"phone"
+    }
+
+
+]
